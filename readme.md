@@ -1,11 +1,11 @@
-## Expense Tracker
+-> Expense Tracker
 
-Keep track of income and expenses. Add and remove items and save to local storage
+It helps you to track your income and expenses. Add and remove items and save to local system.
 
-## Project Specifications
+-> Project features
 
 - Create UI for project
 - Display transaction items in DOM
-- Show balance, expense and income totals
-- Add new transation and reflect in total
+- Show remaining balance, expenses and income totals
+- Add other transation and reflect in total
 - Shubham Dahiya 
